@@ -1,6 +1,6 @@
 # Snake Game
 
-Under construction.
+A classic Snake game for the terminal, built with ratatui. Features score tracking, increasing speed levels, and restart support. Play with WASD or arrow keys.
 
 ## ScreenShots
 
